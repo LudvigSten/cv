@@ -1,0 +1,103 @@
+main {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	font-family: 'Arbutus Slab', serif;
+	font-size: 250%;
+	text-align: center;
+}
+h2 {
+	font-family: 'Libre Franklin', sans-serif;
+	text-align: center;
+	font-size: 175%
+}
+
+h3 {
+	font-family: 'Libre Franklin', sans-serif;
+	text-align: center;
+	font-size: 125%;
+}
+p {
+	font-family: 'Libre Franklin', sans-serif;
+	text-align: center;
+}
+
+blockquote {
+	font-family: 'Libre Franklin', sans-serif;
+	text-align: left;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+main {
+	width:80%;
+	margin-left: 20%;
+}
+
+aside {
+	border-right: solid;
+	border-width: 2px;
+	width: 20%;
+	float: left;
+}
+
+div {
+	height: 50px;
+	width: 98%;
+	border-radius: 100px;
+	background-color: #3396ff;
+}
+
+#englishProgress {
+	width: 98%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: grey;
+}
+#englishBar {
+	width: 80%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: green;
+}
+
+#mathProgress {
+	width: 98%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: grey;
+}
+#mathBar {
+	width: 70%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: green;
+}
+
+#talkingProgress {
+	width: 98%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: grey;
+}
+#talkingBar {
+	width: 40%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: #b3b300;
+}
+
+#programmingProgress {
+	width: 98%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: grey;
+}
+#programmingBar {
+	width: 15%;
+	height: 30px;
+	border-radius: 0px;
+	background-color: #990000;
+}
